@@ -1,5 +1,5 @@
 ## Hi there 👋
-Here are some of my past projects
+Here are some of my past projects:
 
 ### Physically Based Renderer in OpenGL
 ![pbr3](screenshot3.png)
@@ -8,8 +8,8 @@ Here are some of my past projects
 
 
 ### Ray Tracing in One Weekend - The Next Week
-![next-week](the-next-week-final.png)
-![next-week](the-next-week-test.png)
+![next-week](the-next-week-final2.png)
+![next-week](the-next-week-final1.png)
 
 ### Sierpinski's Triangle in OpenGL
 ![sierpinski](sierpinski.png)
