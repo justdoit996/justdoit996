@@ -12,10 +12,6 @@ Here are some of my past projects:
 ![next-week](the-next-week-final2.png)
 ![next-week](the-next-week-final1.png)
 
-### Sierpinski's Triangle in OpenGL
-![sierpinski](sierpinski.png)
-
-
 <!--
 **justdoit996/justdoit996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
