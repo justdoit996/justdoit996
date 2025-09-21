@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+<!--
+**justdoit996/justdoit996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 Here are some of my past projects:
 
 ### Physically Based Renderer in OpenGL
@@ -8,9 +12,6 @@ Here are some of my past projects:
 
 ### Ray Tracing in One Weekend - The Next Week
 ![next-week](the-next-week-final2.png)
-
-<!--
-**justdoit996/justdoit996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
